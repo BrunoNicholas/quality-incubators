@@ -1,0 +1,12 @@
+uploads
+upgrade
+uploads/*
+upgrade/*
+twentyseventeen
+twentyseventeen/*
+/twentyseventeen
+themes/twentyseventeen
+themes/twentyseventeen/*
+/themes/twentyseventee
+./themes/twentyseventeen/*
+./themes/twentyseventee
